@@ -1,0 +1,24 @@
+.jumbotron {
+background-image: url(http://www.fleetech.com/media/4542498/trans-rail-banner.jpg);
+background-position: 0% 25%;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+text-shadow: 4px 4px rgb(49, 75, 224);
+}
+
+body {
+    background: linear-gradient(to bottom, #f2f4f5 20%, #f1c73b 100%);
+}
+.panel-body {
+    font-family: Jazz Let, fantasy;
+    font-weight: 200;
+    color: white;
+    font-size: 28px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4jaQ5WdiaMhPfc2sVgSACJLFn2I8x-GdhhKK9cBzytzlfYsf) center no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
